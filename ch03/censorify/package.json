@@ -1,0 +1,11 @@
+{
+  "name": "censorify",
+  "version": "1.0.0",
+  "description": "Censors words out of text",
+  "main": "censortext.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rudy Lo",
+  "license": "ISC"
+}

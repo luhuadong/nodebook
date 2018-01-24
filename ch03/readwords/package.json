@@ -1,0 +1,14 @@
+{
+  "name": "readwords",
+  "version": "0.0.1",
+  "description": "Read words by censorify",
+  "main": "readwords.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rudy Lo",
+  "license": "ISC",
+  "dependencies": {
+    "censorify_lu": "^0.1.2"
+  }
+}

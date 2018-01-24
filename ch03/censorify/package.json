@@ -1,11 +1,20 @@
 {
+  "author": "Rudy Lo",
   "name": "censorify",
-  "version": "1.0.0",
+  "version": "0.1.1",
   "description": "Censors words out of text",
   "main": "censortext.js",
+  "repository": {
+  	"type": "git",
+	"url": "https://github.com/luhuadong/nodebook/tree/master/ch03/censorify"
+  },
+  "keywords": ["censor", "words"],
+  "dependencies": {},
+  "engines": {
+  	"node": "*"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Rudy Lo",
   "license": "ISC"
 }
